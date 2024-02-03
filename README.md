@@ -14,7 +14,7 @@ This Weather App provides real-time weather information for a given location. Us
 
 #Usage:
 1. Obtain an API key from a weather data provider(eg. OpenWeatherMap)
-2. Obtain API key
+2. Obtain API key, use it in script.js file
 3. Run the App
 4. Open your browser and go to `http://localhost:5500`
 
